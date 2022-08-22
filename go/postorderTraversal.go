@@ -1,4 +1,4 @@
-package go
+package main
 func postorderTraversal(root *TreeNode) []int {
     result := []int{}
     

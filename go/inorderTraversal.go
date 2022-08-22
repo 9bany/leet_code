@@ -1,4 +1,4 @@
-package go
+package main
 
 func inorderTraversal(root *TreeNode) []int {
     res := []int{}

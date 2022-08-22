@@ -1,4 +1,4 @@
-package go
+package main
 
 func invertTree(root *TreeNode) *TreeNode {
     invert(root)

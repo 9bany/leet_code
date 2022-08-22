@@ -1,4 +1,4 @@
-package go
+package main
 
 func hasPathSum(root *TreeNode, targetSum int) bool {
     if root == nil {
